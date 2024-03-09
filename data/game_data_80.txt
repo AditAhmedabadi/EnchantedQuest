@@ -1,0 +1,24 @@
+
+[Narrator]: In the heart of the enchanted forest, where ancient trees stand tall and the air thrums with magic, you embark on a quest filled with mystery and adventure.
+
+[Player]: I take a moment to admire the beauty of the forest, feeling the energy of nature coursing through me.
+
+[Narrator]: As you wander deeper into the forest, you stumble upon a clearing bathed in soft moonlight, where a mysterious figure awaits.
+
+[Player]: I cautiously approach the figure, curious to learn more about the secrets of the forest.
+
+[Narrator]: The figure reveals itself to be a wise old wizard, offering you a choice: a path of courage or a path of wisdom.
+
+[Player]: I choose the path of courage, eager to test my strength and bravery.
+
+[Narrator]: With determination in your heart, you set forth on the path of courage, facing challenges and overcoming obstacles along the way.
+
+[Player]: I face each challenge head-on, drawing upon my inner strength to overcome any adversity.
+
+[Narrator]: As you journey deeper into the forest, you encounter a fearsome beast blocking your path.
+
+[Player]: I steel myself for battle and prepare to confront the beast head-on.
+
+[Narrator]: With courage and skill, you defeat the beast, emerging victorious and earning the respect of the forest.
+
+[Game Over]: In the heart of the enchanted forest, you have proven yourself a true hero, worthy of the forest's blessings. May your journey continue with courage and determination.

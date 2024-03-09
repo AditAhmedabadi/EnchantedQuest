@@ -1,0 +1,28 @@
+
+[Narrator]: Deep within the enchanted forest, where shadows dance and whispers fill the air, you embark on a journey of discovery and adventure.
+
+[Player]: I take a moment to breathe in the magic of the forest, feeling its energy flow through me.
+
+[Narrator]: As you venture deeper into the forest, you come across a mystical pond shimmering with ethereal light.
+
+[Player]: I approach the pond cautiously, curious about its mystical properties.
+
+[Narrator]: As you gaze into the depths of the pond, a voice speaks to you, offering guidance on your journey.
+
+[Player]: I listen intently to the voice, eager to learn its secrets.
+
+[Narrator]: The voice reveals that you must choose between two paths: the path of bravery or the path of wisdom.
+
+[Player]: I choose the path of wisdom, seeking knowledge to aid me on my journey.
+
+[Narrator]: With wisdom as your guide, you navigate through the forest, solving riddles and unraveling mysteries along the way.
+
+[Player]: I use my intellect to overcome each challenge, trusting in my knowledge to lead me forward.
+
+[Narrator]: As you reach the heart of the forest, you encounter a powerful enchantment blocking your path.
+
+[Player]: I focus my mind and channel my wisdom to dispel the enchantment, clearing the way forward.
+
+[Narrator]: With clarity of mind and wisdom in your heart, you emerge triumphant, ready to face whatever challenges lie ahead.
+
+[Game Over]: In the heart of the enchanted forest, you have proven yourself a master of wisdom, earning the respect of the forest's ancient guardians. May your journey continue with clar

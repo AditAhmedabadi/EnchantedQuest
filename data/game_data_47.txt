@@ -1,0 +1,12 @@
+
+[Narrator]: High atop a windswept cliff, you stand on the precipice of adventure, gazing out at the vast expanse of the ocean below. The salty sea air fills your lungs, and the sound of crashing waves echoes in your ears, beckoning you to explore the mysteries that lie beneath the surface.
+
+[Player]: Descend to the beach.
+
+[Narrator]: With a sense of excitement, you make your way down the rugged cliffside, carefully picking your way through the jagged rocks and slippery seaweed. As you reach the sandy shore, you feel the soft grains beneath your feet and the cool touch of the ocean spray on your skin.
+
+[Player]: Explore the shoreline.
+
+[Narrator]: With curiosity driving you forward, you wander along the shoreline, searching for hidden treasures washed ashore by the relentless tide. As you comb the sands, you come across a glimmering object half-buried in the sand—a long-lost artifact waiting to be discovered.
+
+[Game Over]: Suddenly, a deafening roar splits the air, and you turn to see a massive wave looming on the horizon, its towering crest poised to crash down upon the shore. With no time to spare, you race back up the cliffside, narrowly escaping the wrath of the oncoming tsunami.

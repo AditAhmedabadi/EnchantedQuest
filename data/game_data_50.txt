@@ -1,0 +1,12 @@
+
+[Narrator]: In the heart of a dense forest, you find yourself surrounded by towering trees and tangled undergrowth, the air alive with the chirping of birds and the rustle of leaves. Shafts of golden sunlight filter through the canopy above, casting dappled shadows on the forest floor.
+
+[Player]: Follow the winding path deeper into the forest.
+
+[Narrator]: With a sense of adventure in your heart, you follow the winding path deeper into the heart of the forest, each twist and turn revealing new wonders and mysteries. As you journey deeper into the woods, you feel a sense of connection with the natural world, as if the forest itself is guiding your steps.
+
+[Player]: Approach the ancient tree at the center of the clearing.
+
+[Narrator]: As you approach the ancient tree at the center of the clearing, you feel a strange energy pulsing through the air, as if the very essence of the forest is concentrated in this sacred space. The tree looms majestically overhead, its gnarled branches reaching towards the sky like the fingers of an ancient guardian.
+
+[Game Over]: Suddenly, the ground begins to shake, and the ancient tree comes to life, its branches twisting and writhing like serpents. With a thunderous roar, it lashes out at you, its bark cracking like thunder as it unleashes its fury upon intruders. With no means of escape, you brace yourself for the inevitable confrontation.

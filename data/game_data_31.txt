@@ -1,0 +1,8 @@
+
+[Narrator]: Hidden amidst the ancient trees of the enchanted forest lies the Forgotten Temple, its crumbling ruins a testament to the passage of time and the fading glory of a bygone era. Within its walls lie untold riches and ancient artifacts, but also the lingering spirits of those who once worshipped within its halls.
+
+[Player]: Driven by a thirst for adventure, I venture into the depths of the Forgotten Temple, determined to uncover its secrets and claim its treasures as my own.
+
+[Narrator]: As you explore the crumbling corridors of the Forgotten Temple, you feel the weight of history pressing down upon you, its echoes reverberating through the silent halls. Shadows dance along the walls, their movements casting eerie shapes upon the ancient stone, and you sense the presence of something dark and malevolent lurking in the depths.
+
+[Game Over]: In the heart of the Forgotten Temple, your quest for treasure meets a tragic end as you become ensnared in the grasp of the vengeful spirits that haunt its crumbling halls, forever condemned to wander its shadowy corridors for all eternity.

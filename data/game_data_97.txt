@@ -1,0 +1,16 @@
+
+[Narrator]: As you venture deeper into the enchanted forest, you stumble upon a band of goblins lurking in the shadows, their eyes filled with malice as they prepare to attack.
+
+[Player]: Engage the goblins in combat.
+
+[Narrator]: With a steely resolve, you draw your weapon and charge towards the goblins, ready to face them in battle. As the clash of steel fills the air, you fight with all your might, determined to overcome your foes.
+
+[Player]: Dodge the goblins' attacks.
+
+[Narrator]: As the goblins swing their weapons with reckless abandon, you dodge and weave between their strikes, avoiding their blows with nimble footwork. Despite their numbers, you remain undaunted, focusing on finding an opening to turn the tide of battle.
+
+[Player]: Strike at the goblins' weak spots.
+
+[Narrator]: Spotting an opportunity, you launch a series of precise strikes, targeting the goblins' vulnerable spots with deadly accuracy. With each blow, you weaken their defenses until, one by one, they fall before you, defeated by your skill and determination.
+
+[Game Over]: In the heart of the enchanted forest, you have emerged victorious over the goblins, proving yourself a formidable warrior. As you stand amidst the fallen foes, you know that your journey is far from over, with new adventures awaiting you beyond the forest's edge.

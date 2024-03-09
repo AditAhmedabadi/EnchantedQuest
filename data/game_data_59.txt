@@ -1,0 +1,20 @@
+
+[Narrator]: In the heart of the enchanted forest, where ancient trees whisper secrets of forgotten times and the air is thick with magic, a lone traveler sets forth on a quest to unlock the mysteries that lie hidden within its depths. With each step, the traveler's heart beats with anticipation, eager to uncover the ancient secrets that dwell within the mystical realm.
+
+[Player]: I follow the winding path through the forest, my senses keen for any signs of the ancient magic that permeates the air.
+
+[Narrator]: As you journey deeper into the forest, you come upon a clearing bathed in the soft glow of moonlight, where a circle of standing stones stands sentinel amidst the ancient trees. The stones hum with power, their ancient glyphs shimmering with otherworldly light as they weave a tapestry of magic that stretches back through the ages.
+
+[Player]: I approach the standing stones with reverence, feeling the ancient magic coursing through my veins as I reach out to touch their weathered surface.
+
+[Narrator]: As you touch the stones, a surge of power courses through you, filling you with a sense of clarity and purpose. In that moment, you understand that the stones are a gateway to the ancient magic of the forest, a key that will unlock the secrets of the mystical realm and reveal the truths that lie hidden within its depths.
+
+[Player]: I close my eyes and focus my mind, allowing the magic of the stones to guide me on my journey through the enchanted forest.
+
+[Narrator]: With each step, you feel the ancient magic of the forest growing stronger, its presence guiding you through the twists and turns of the mystical realm. As you delve deeper into the heart of the forest, you come upon a hidden glade, where a pool of shimmering water reflects the starlight above.
+
+[Player]: I approach the pool, drawn by its tranquil beauty and the promise of ancient wisdom that lies within its depths.
+
+[Narrator]: As you gaze into the pool, the waters shimmer with visions of the past, present, and future, revealing glimpses of the wonders and dangers that lie ahead. With each vision, you gain new insights into the mysteries of the enchanted forest, your journey guided by the wisdom of ages past.
+
+[Game Over]: In the heart of the enchanted forest, your quest comes to an end as you emerge from the depths of the mystical realm, your mind filled with the knowledge and wisdom of the ancient magic that dwells within its depths. Though your journey may have ended, the secrets you uncovered will live on in the annals of legend, inspiring future adventurers to seek out the wonders of the enchanted realm.

@@ -1,0 +1,16 @@
+
+[Narrator]: As you journey through the enchanted forest, you stumble upon a clearing where a band of goblins lies in wait, their eyes gleaming with malice as they brandish their weapons.
+
+[Player]: Prepare to defend yourself.
+
+[Narrator]: With weapons drawn, you stand ready to face the goblin horde, your heart pounding with anticipation. The creatures advance, their numbers overwhelming, but you stand your ground, refusing to back down in the face of danger.
+
+[Player]: Attack the goblins.
+
+[Narrator]: With a fierce battle cry, you charge into the fray, striking out at the goblins with all your might. Each blow lands true, driving back the enemy forces and scattering them in disarray.
+
+[Player]: Guard against their attacks.
+
+[Narrator]: As the goblins regroup and launch a counterattack, you raise your shield, deflecting their blows with practiced skill. Despite their ferocity, you hold your ground, refusing to yield even as the battle rages on.
+
+[Game Over]: In the heart of the enchanted forest, you have triumphed over the goblin horde, driving them back with courage and determination. As you survey the battlefield, you know that your bravery will be remembered in the annals of legend, inspiring others to stand against the forces of darkness.

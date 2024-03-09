@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the enchanted forest, you come across a towering troll blocking your path, its massive club raised in a threatening stance.
+
+[Player]: Face the troll in combat.
+
+[Narrator]: With determination in your heart, you confront the troll head-on, your weapon ready to strike. As the troll swings its club with immense strength, you dodge its attacks and retaliate with swift strikes of your own, determined to prevail against this formidable foe.
+
+[Player]: Dodge the troll's attacks.
+
+[Narrator]: With agility and grace, you evade the troll's powerful swings, narrowly avoiding its crushing blows. As you maneuver around the creature, you search for an opening to deliver a decisive strike.
+
+[Player]: Attack the troll's weak point.
+
+[Narrator]: Spotting a vulnerability in the troll's defenses, you launch a relentless assault, targeting its exposed areas with precision strikes. With each blow, you chip away at the troll's strength until, with a final strike, it falls to the forest floor, defeated by your bravery and skill.
+
+[Game Over]: In the heart of the enchanted forest, you have emerged victorious against the mighty troll, your courage and determination shining brightly. As you stand triumphant over your fallen adversary, you know that your legend will echo through the ages.

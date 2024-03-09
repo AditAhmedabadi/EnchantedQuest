@@ -1,0 +1,16 @@
+
+[Narrator]: In the heart of the enchanted forest, a fierce band of goblins emerges from the shadows, their eyes filled with malice as they brandish their weapons.
+
+[Player]: Fight the goblins.
+
+[Narrator]: With determination, you charge into battle, your weapon at the ready. As the goblins close in, you strike with swift and precise blows, fending off their attacks with skill and agility.
+
+[Player]: Dodge the goblins' strikes.
+
+[Narrator]: With nimble footwork, you evade the goblins' swinging weapons, dodging their strikes and keeping yourself out of harm's way. With each dodge, you create openings for counterattacks.
+
+[Player]: Attack the goblins' weak points.
+
+[Narrator]: Spotting vulnerabilities in the goblins' defenses, you strike with precision, targeting their weak spots and swiftly dispatching them one by one. As the last goblin falls, you emerge victorious in the heart of the enchanted forest.
+
+[Game Over]: With the goblins defeated, you take a moment to catch your breath, knowing that your bravery has saved the forest from their menace. Your victory will be remembered for generations to come.

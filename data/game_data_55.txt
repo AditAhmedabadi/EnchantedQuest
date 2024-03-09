@@ -1,0 +1,16 @@
+
+[Narrator]: In the sprawling metropolis of Neon City, where the streets pulse with the rhythm of life and the skyscrapers scrape the heavens, a young detective prowls the shadows in search of justice. With a trench coat billowing behind them and a fedora pulled low over their eyes, they navigate the labyrinthine alleyways and neon-lit streets, following the faint scent of danger that hangs in the air like a shroud.
+
+[Player]: Investigate the latest crime scene reported in the downtown district.
+
+[Narrator]: With a sense of purpose burning in their veins, the detective makes their way to the downtown district, where flashing lights and crime scene tape mark the spot of the latest tragedy to strike Neon City. As they survey the scene, their keen eyes pick out clues and evidence amidst the chaos—a discarded cigarette butt here, a bloody handprint there—all leading them closer to the truth behind the crime that has shaken the city to its core.
+
+[Player]: Question witnesses and gather information from bystanders who may have seen or heard something relevant to the case.
+
+[Narrator]: With a mixture of charm and coercion, the detective questions witnesses and gathers information from bystanders, piecing together the puzzle of what happened in the dark hours of the night. Each witness offers a fragment of the truth, their stories weaving together to form a tapestry of deceit and betrayal that stretches from the highest echelons of power to the darkest corners of the city's underworld. Yet still the detective presses on, undeterred by the dangers that lurk in the shadows, determined to uncover the truth no matter the cost.
+
+[Player]: Follow up on leads and pursue suspects implicated in the crime.
+
+[Narrator]: With the scent of danger hanging heavy in the air, the detective follows up on leads and pursues suspects implicated in the crime, their footsteps echoing through the empty streets as they close in on their quarry. With each passing moment, the tension mounts, the stakes growing ever higher as they draw closer to the truth behind the crime that has rocked Neon City to its core. Yet still they press on, driven by a sense of justice and the knowledge that the city's fate hangs in the balance.
+
+[Game Over]: In the heart of Neon City, the detective's quest for justice comes to an end, their pursuit of the truth thwarted by forces beyond their control. Though their journey may have ended in defeat, their courage and determination will be remembered in the annals of history, inspiring future generations to rise up and fight for what is right in a world consumed by darkness.

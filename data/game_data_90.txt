@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the enchanted forest, you encounter a fearsome creature—a massive wolf with glowing eyes and razor-sharp fangs. With a menacing growl, it lunges forward, its jaws snapping with hunger.
+
+[Player]: Attack the wolf.
+
+[Narrator]: With a battle cry, you charge at the wolf, your weapon held high as you prepare to strike. The creature snarls and leaps at you, but you stand your ground, determined to defend yourself against its savage assault.
+
+[Player]: Dodge its attacks.
+
+[Narrator]: With lightning-fast reflexes, you dodge the wolf's claws and teeth, narrowly avoiding its deadly strikes. As it lunges again, you counter with a swift blow, striking a glancing blow against its side.
+
+[Player]: Continue to fight.
+
+[Narrator]: The battle rages on, each blow exchanged with the ferocity of primal combat. With every strike, you feel the adrenaline coursing through your veins, fueling your determination to emerge victorious.
+
+[Game Over]: In the heart of the enchanted forest, you have proven yourself a worthy opponent, defeating the fearsome wolf with skill and courage. As you catch your breath amidst the aftermath of battle, you know that you are ready to face whatever challenges lie ahead.

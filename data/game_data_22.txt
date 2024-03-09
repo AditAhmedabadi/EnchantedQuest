@@ -1,0 +1,8 @@
+
+[Narrator]: Deep within the enchanted forest, where ancient trees stand sentinel and the air crackles with mystic energy, a shadowy figure emerges from the darkness. Its form is indistinct, its features obscured by the shifting shadows, but its presence fills you with a sense of foreboding.
+
+[Player]: With caution in my heart, I approach the figure, seeking answers to the mysteries of the forest.
+
+[Narrator]: As you draw nearer, the figure speaks in a voice that seems to echo from the depths of the forest itself. Its words are cryptic, hinting at secrets long forgotten and dangers yet to come. But before you can decipher its meaning, the figure fades back into the shadows, leaving you alone with more questions than answers.
+
+[Game Over]: In the heart of the enchanted forest, your quest for knowledge meets an enigmatic end, leaving you to ponder the mysteries of the mystical realm for eternity.

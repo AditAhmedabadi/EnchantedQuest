@@ -1,0 +1,8 @@
+
+[Narrator]: Deep within the enchanted forest lies a grove shrouded in mystery, its entrance guarded by ancient trees whose branches twist and coil like serpents. Legends speak of untold treasures hidden within its depths, but also of the dangers that await those foolish enough to venture inside.
+
+[Player]: Undeterred by the tales of danger, I steel myself for the journey ahead and step into the forbidden grove.
+
+[Narrator]: As you make your way through the twisted paths of the grove, the air grows thick with an oppressive sense of foreboding. Strange whispers fill the air, their words indecipherable yet filled with malice, and you feel the weight of unseen eyes watching your every move.
+
+[Game Over]: In the heart of the forbidden grove, your quest for treasure meets a tragic end as you fall victim to the dark forces that lurk within its shadowy depths, forever lost to the mysteries of the enchanted forest.

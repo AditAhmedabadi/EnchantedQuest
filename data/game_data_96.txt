@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the enchanted forest, you encounter a pack of fierce wolves, their eyes gleaming with hunger as they circle you menacingly.
+
+[Player]: Attack the wolves.
+
+[Narrator]: With a battle cry, you charge towards the wolves, brandishing your weapon as you prepare to face them head-on. As the wolves leap at you with bared teeth, you fight back with all your strength, determined to emerge victorious.
+
+[Player]: Defend against the wolves' attacks.
+
+[Narrator]: As the wolves lunge at you, you raise your shield to block their bites and slashes, deflecting their attacks with practiced skill. Despite their ferocity, you stand firm, refusing to let them overwhelm you.
+
+[Player]: Counterattack the wolves.
+
+[Narrator]: Seizing an opportunity, you unleash a flurry of strikes, aiming for the wolves' vulnerable spots with precision. With each blow, you weaken their resolve until, one by one, they fall before you, defeated by your courage and determination.
+
+[Game Over]: In the heart of the enchanted forest, you have triumphed over the wolves, proving yourself a true warrior of the realm. As you catch your breath amidst the fallen creatures, you know that your journey is far from over, with new challenges awaiting you at every turn.

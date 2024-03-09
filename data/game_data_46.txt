@@ -1,0 +1,12 @@
+
+[Narrator]: Beneath the shadow of towering mountains, you find yourself standing at the edge of a vast desert, its golden sands stretching out to the horizon. The sun beats down relentlessly, and the heat shimmers in the distance like a mirage.
+
+[Player]: Search for water.
+
+[Narrator]: With parched lips and a sense of urgency, you scour the desert for any signs of life-giving water. After hours of fruitless searching, you come across a small oasis nestled amidst the dunes, its cool waters a welcome respite from the scorching heat.
+
+[Player]: Drink from the oasis.
+
+[Narrator]: With a sense of relief, you kneel by the edge of the oasis and take a long, refreshing drink from its crystal-clear waters. As the cool liquid soothes your parched throat, you feel a renewed sense of strength and determination coursing through your veins.
+
+[Game Over]: Suddenly, you hear the distant rumble of thunder, and dark clouds gather ominously on the horizon. With a sinking feeling in your stomach, you realize that a sandstorm is approaching, and you must seek shelter before it's too late.

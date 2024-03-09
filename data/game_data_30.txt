@@ -1,0 +1,8 @@
+
+[Narrator]: Deep beneath the surface of the enchanted forest lie the Whispering Caverns, a network of twisting tunnels and shadowy chambers that wind their way through the earth like the veins of some ancient behemoth. Legends speak of lost treasures hidden within its depths, but also of the dangers that lurk in the darkness.
+
+[Player]: Undeterred by the tales of peril, I descend into the depths of the Whispering Caverns, determined to uncover the secrets that lie hidden within its labyrinthine halls.
+
+[Narrator]: As you navigate the winding tunnels of the Whispering Caverns, you feel the weight of the earth pressing in around you, its darkness suffocating and oppressive. Strange whispers echo through the darkness, their words unintelligible yet filled with a sense of urgency, and you find yourself drawn deeper into the heart of the labyrinth.
+
+[Game Over]: In the depths of the Whispering Caverns, your quest for treasure meets a tragic end as you become hopelessly lost amidst the twisting tunnels and shadowy chambers, forever entombed in the darkness of the mystical realm.

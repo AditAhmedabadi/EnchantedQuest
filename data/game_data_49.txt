@@ -1,0 +1,12 @@
+
+[Narrator]: Deep within the ancient ruins of a forgotten civilization, you stand in awe of the crumbling structures and overgrown foliage that surround you. The air is heavy with the scent of moss and decay, and the only sound is the echo of your footsteps against weathered stone.
+
+[Player]: Investigate the ruins.
+
+[Narrator]: With cautious steps, you explore the labyrinthine passages and hidden chambers of the ruins, searching for clues to unlock their secrets. Each crumbling wall and faded inscription tells a story of a bygone era, hinting at the wonders and horrors that once inhabited this lost civilization.
+
+[Player]: Descend into the underground chamber.
+
+[Narrator]: As you descend into the darkness of the underground chamber, a chill runs down your spine, and the air grows thick with the scent of damp earth and ancient magic. The walls are lined with strange symbols and mysterious artifacts, their significance lost to time.
+
+[Game Over]: Suddenly, the ground begins to tremble beneath your feet, and the chamber is filled with a deafening roar. With a sinking feeling in your heart, you realize that you have awakened a slumbering guardian, and it will stop at nothing to protect the secrets of the ruins.

@@ -1,0 +1,16 @@
+
+[Narrator]: As you traverse the enchanted forest, a band of marauding goblins ambushes you, their wicked grins belying their malicious intent.
+
+[Player]: Stand your ground and face the goblins.
+
+[Narrator]: With a defiant stance, you draw your weapon and prepare to confront the goblins, refusing to let them intimidate you. The air crackles with tension as the two sides square off, poised for battle.
+
+[Player]: Defend against the goblins' onslaught.
+
+[Narrator]: The goblins charge at you with reckless abandon, their crude weapons swinging wildly as they attempt to overwhelm you with sheer numbers. You fend off their attacks with skill and determination, determined to emerge victorious.
+
+[Player]: Launch a counterattack against the goblins.
+
+[Narrator]: Seizing an opportunity amidst the chaos, you strike back at the goblins with calculated precision, catching them off guard and sending them reeling. Your blows find their mark, driving the goblins back and turning the tide of battle in your favor.
+
+[Game Over]: In the heart of the enchanted forest, your bravery and skill are not enough to overcome the goblins' relentless assault. As you fall to the forest floor, outnumbered and outmatched, your vision fades to black, your journey coming to an untimely end.

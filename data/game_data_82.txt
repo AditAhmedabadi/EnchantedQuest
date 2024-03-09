@@ -1,0 +1,28 @@
+
+[Narrator]: As you journey through the enchanted forest, a fierce roar shatters the tranquil silence, echoing through the trees.
+
+[Player]: I ready my weapon, prepared to face whatever lurks in the shadows.
+
+[Narrator]: Emerging from the dense foliage, a mighty dragon appears, its scales shimmering with otherworldly hues.
+
+[Player]: I stand my ground, steeling myself for battle, and raise my weapon against the dragon.
+
+[Narrator]: With a thunderous roar, the dragon lunges forward, unleashing a torrent of flames from its gaping jaws.
+
+[Player]: I dodge the flames and counter with a swift strike, aiming for the dragon's vulnerable spot.
+
+[Narrator]: Your blade finds its mark, drawing blood from the dragon's hide and eliciting a furious roar of pain.
+
+[Player]: I press the attack, determined to slay the beast and claim victory.
+
+[Narrator]: With each blow, the dragon's fury intensifies, its claws slashing through the air with deadly precision.
+
+[Player]: I fight on, refusing to yield even as the dragon's onslaught grows more relentless.
+
+[Narrator]: As the battle reaches its climax, you muster all your strength for one final strike, aiming to deliver the decisive blow.
+
+[Player]: I unleash a mighty blow, channeling all my energy into the strike in a bid to vanquish the dragon once and for all.
+
+[Narrator]: With a triumphant cry, your weapon finds its mark, piercing the dragon's heart and felling the mighty beast.
+
+[Game Over]: In the heart of the enchanted forest, you have emerged victorious in a battle for the ages, your courage and skill earning you the title of dragon slayer. May your legend echo through the annals of history, inspiring future generations to rise above adversity with unwavering resolve.

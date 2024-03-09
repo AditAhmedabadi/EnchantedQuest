@@ -1,0 +1,16 @@
+
+[Narrator]: Beneath the shadow of a towering mountain, where the air is thin and the wind howls like a banshee, a lone traveler embarks on a journey that will test their strength and courage to the limit. With a pack slung over their shoulder and a determination burning in their heart, they set out to conquer the treacherous peaks and unlock the secrets that lie hidden within their icy embrace.
+
+[Player]: Begin the ascent up the mountain, following the winding trail that leads towards the summit.
+
+[Narrator]: With each step, the traveler's muscles strain against the weight of their pack, their breath coming in ragged gasps as they climb ever higher towards the snow-capped peaks that loom overhead. The trail is steep and treacherous, lined with loose rocks and crumbling ledges that threaten to send them tumbling into the abyss below. Yet still they press on, driven by a sense of purpose and the promise of adventure that lies just beyond the horizon.
+
+[Player]: Navigate a narrow ridge, where the wind threatens to sweep them off their feet with each gust.
+
+[Narrator]: With a steady hand and a focused mind, the traveler makes their way across the narrow ridge, their boots slipping on the icy surface as they struggle to maintain their balance in the face of the relentless wind. Each step is a test of their strength and agility, a battle against the elements that rage around them with a fury unmatched by any mortal force. Yet still they press on, their eyes fixed on the distant summit that beckons them ever closer with each passing moment.
+
+[Player]: Reach the summit and stand triumphantly atop the highest peak, surveying the world below with a sense of awe and wonder.
+
+[Narrator]: With a final surge of strength, the traveler reaches the summit and stands triumphantly atop the highest peak, their chest heaving with exertion as they survey the world below with a sense of awe and wonder. The view is breathtaking, stretching out in all directions as far as the eye can see—a vast expanse of snow-capped mountains and rolling hills, bathed in the soft light of the setting sun. In that moment, they feel a sense of peace wash over them, knowing that they have conquered the mountain and unlocked the secrets that lie hidden within its icy embrace.
+
+[Game Over]: In the shadow of the towering peaks, the traveler's journey comes to an end, their quest for adventure and discovery reaching its triumphant conclusion. Though their path may have been fraught with danger and uncertainty, their courage and determination will be remembered in the annals of

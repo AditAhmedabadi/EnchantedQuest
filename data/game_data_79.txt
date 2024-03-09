@@ -1,0 +1,10 @@
+
+[Narrator]: You stumble upon a clearing in the forest, where a majestic waterfall cascades into a crystal-clear pool.
+
+[Player]: I approach the waterfall, captivated by its beauty.
+
+[Narrator]: As you draw near, you spot a shimmering object at the bottom of the pool, glinting in the sunlight.
+
+[Player]: I dive into the pool to retrieve the object.
+
+[Game Over]: With the object in hand, you emerge from the pool victorious, another mystery of the enchanted forest uncovered.

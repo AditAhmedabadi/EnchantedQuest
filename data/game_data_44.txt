@@ -1,0 +1,28 @@
+
+[Narrator]: You find yourself in a dense forest, surrounded by towering trees and the sounds of wildlife. The path ahead splits into two directions.
+
+[Player]: Go left.
+
+[Narrator]: You follow the left path, pushing through the underbrush as you venture deeper into the forest. After a while, you come across a clearing.
+
+[Player]: Explore the clearing.
+
+[Narrator]: You explore the clearing and find a small wooden chest hidden beneath a bush.
+
+[Player]: Open the chest.
+
+[Narrator]: You open the chest and find a potion and a handful of gold coins inside.
+
+[Player]: Take the potion and coins.
+
+[Narrator]: You take the potion and coins, stowing them safely in your pack. What would you like to do next? You stand at the entrance of a dark cave, the air thick with the scent of earth and decay. The path ahead is shrouded in darkness, but a faint glimmer of light beckons from deep within.
+
+[Player]: Enter the cave.
+
+[Narrator]: With a sense of trepidation, you step into the darkness, the sound of your footsteps echoing off the damp walls. As you venture further into the depths, you can hear the distant drip of water and the occasional skittering of unseen creatures.
+
+[Player]: Light a torch.
+
+[Narrator]: With a flicker of flame, you ignite the torch, casting a warm glow that pushes back the shadows and illuminates the path ahead. With newfound courage, you press on into the heart of the cave, eager to uncover its secrets.
+
+[Game Over]: In the depths of the cave, your journey takes a perilous turn as you encounter a nest of giant spiders. Despite your best efforts to fend them off, you are overwhelmed by their numbers, and your adventure comes to a sudden and unfortunate end.

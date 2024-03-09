@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the enchanted forest, where ancient trees stand sentinel and the air crackles with mystic energy, a formidable creature prowls. Its eyes, glowing with an ominous light, fixate upon you as it emerges from the shadows, its massive form exuding an aura of primal menace.
+
+[Player]: With a steady hand, I draw my weapon, prepared to confront the creature and defend myself against its impending attack.
+
+[Narrator]: The forest is filled with the clash of steel as you engage in a fierce battle with the creature, each strike reverberating through the air like thunder. But despite your skill and determination, the beast proves to be a relentless adversary, its strength and ferocity overwhelming your defenses.
+
+[Player]: I fight on, refusing to yield even as my strength wanes and my wounds multiply.
+
+[Narrator]: With each passing moment, the creature's onslaught grows more relentless, wearing you down until your movements become sluggish and your strikes lose their potency. Desperation grips your heart as you struggle to keep pace with the beast's overwhelming power.
+
+[Player]: With a final surge of determination, I rally my remaining strength for one last stand against the creature, knowing that victory may be beyond my grasp.
+
+[Narrator]: With a mighty roar, the creature delivers a devastating blow that sends you sprawling to the forest floor, your weapon slipping from your grasp as darkness closes in around you. As you lie helpless amidst the underbrush, the victorious beast looms over you with a triumphant snarl, its victory assured.
+
+[Game Over]: In the heart of the enchanted forest, your journey meets a tragic end at the claws of a fearsome beast. Though your quest may have ended in defeat, your bravery and determination will be remembered in the annals of legend, inspiring others to face their own challenges with unwavering resolve. May your spirit find peace amidst the shadows of the mystical realm.

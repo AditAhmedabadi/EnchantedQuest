@@ -1,0 +1,8 @@
+
+[Narrator]: Deep within the heart of the enchanted forest lies a tranquil lake, its surface as smooth as glass and its waters reflecting the shifting colors of the surrounding trees. Legend speaks of a hidden treasure buried beneath its depths, guarded by the spirits of the forest.
+
+[Player]: Intrigued by the tales of the Silent Lake, I embark on a quest to uncover its secrets and claim the treasure that lies hidden beneath its surface.
+
+[Narrator]: As you approach the shore of the Silent Lake, a sense of tranquility washes over you, the stillness of the water calming your troubled mind. But as you dive beneath the surface in search of the treasure, you soon realize that the lake holds secrets far darker than you could have imagined.
+
+[Game Over]: In the depths of the Silent Lake, your quest for treasure meets a tragic end as you fall victim to the vengeful spirits that lurk beneath its surface, forever lost to the watery depths of the enchanted forest.

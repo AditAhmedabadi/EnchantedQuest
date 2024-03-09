@@ -1,0 +1,20 @@
+
+[Narrator]: Deep within the enchanted forest, where ancient trees stand sentinel and the air crackles with mystic energy, you encounter a fearsome creature—a towering troll with gnarled horns and baleful eyes, blocking your path with a menacing growl.
+
+[Player]: Attack the troll.
+
+[Narrator]: Drawing your sword, you charge at the troll with a fierce battle cry, clashing against its formidable strength. Each strike reverberates through the forest, a testament to your determination to overcome this formidable foe.
+
+[Player]: Dodge and strike.
+
+[Narrator]: With agility and precision, you dodge the troll's swings and strike back with all your might, aiming for its vulnerable spots to weaken its defenses. But as the battle rages on, the troll's ferocity shows no signs of waning, and you find yourself locked in a deadly dance of steel and fury.
+
+[Player]: Keep fighting.
+
+[Narrator]: Desperate to gain the upper hand, you unleash a flurry of strikes, channeling all your strength and focus into overpowering the troll and emerging victorious. With a final, decisive blow, you deliver the finishing strike, felling the mighty beast with a thunderous crash.
+
+[Player]: Rest and finish.
+
+[Narrator]: Wounded but triumphant, you take a moment to tend to your injuries and catch your breath before continuing on your journey through the enchanted forest, ever vigilant for the next challenge that awaits.
+
+[Game Over]: Rest now Fellow Knight!

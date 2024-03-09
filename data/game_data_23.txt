@@ -1,0 +1,8 @@
+
+[Narrator]: As you journey deeper into the heart of the enchanted forest, the dense foliage begins to close in around you, obscuring your path and leading you further into the depths of the unknown. With each step, the air grows thicker with magic, and the shadows seem to whisper secrets that only the forest itself can understand.
+
+[Player]: I press on, determined to find my way through the labyrinthine depths of the forest.
+
+[Narrator]: But as you venture deeper into the forest, the trees seem to shift and twist, leading you astray and leaving you hopelessly lost amidst the tangled underbrush. Try as you might, you cannot find your way back to the path, and with each passing moment, the forest seems to grow darker and more foreboding.
+
+[Game Over]: In the heart of the enchanted forest, your quest for adventure meets a tragic end as you become hopelessly lost amidst the labyrinthine depths of the mystical realm, doomed to wander its shadowy halls for all eternity.

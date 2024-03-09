@@ -1,0 +1,16 @@
+
+[Narrator]: Amidst the ancient trees of the enchanted forest, where shadows dance with the whispers of forgotten tales, a lone wanderer embarks on a quest to uncover the truth hidden within its depths. With each step, the wanderer's heart beats with anticipation, eager to unravel the mysteries that lie shrouded in the mists of time.
+
+[Player]: I traverse the forest with cautious steps, my senses alert for any signs of danger that may lurk in the shadows.
+
+[Narrator]: As you journey deeper into the forest, you come upon a hidden glen, where a crystal-clear stream winds its way through the trees. The water glimmers with an otherworldly light, its surface rippling with the secrets of the enchanted realm.
+
+[Player]: I approach the stream, drawn by its beauty and the promise of ancient wisdom that lies within its depths.
+
+[Narrator]: As you kneel by the stream, a voice whispers on the breeze, guiding you to dip your hand into the water. As your fingers touch the surface, a vision unfolds before you, revealing glimpses of the past, present, and future.
+
+[Player]: I watch the visions unfold, my mind racing with the knowledge of the ages that flows through me.
+
+[Narrator]: With each vision, you gain new insights into the mysteries of the enchanted forest, your journey guided by the wisdom of those who came before. As you rise to continue your quest, you carry with you the knowledge of the ancient magic that dwells within the heart of the forest.
+
+[Game Over]: In the heart of the enchanted forest, your quest comes to an end as you emerge from its depths, your mind filled with the wisdom and knowledge of the ages. Though your journey may have ended, the secrets you uncovered will live on in the tales of adventurers yet to come, inspiring them to seek out the wonders of the mystical realm.

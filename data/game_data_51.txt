@@ -1,0 +1,12 @@
+
+[Narrator]: High atop a windswept cliff, overlooking the vast expanse of the ocean below, you stand at the edge of the world. The salty breeze stings your cheeks as you gaze out at the endless horizon, where sky and sea blend together in a mesmerizing dance of blue and gray.
+
+[Player]: Search for a hidden cave along the cliffside.
+
+[Narrator]: With a sense of adventure coursing through your veins, you scour the rocky cliffside for any sign of a hidden cave, your eyes scanning every crevice and shadow for a glimpse of the unknown. As you explore further, the sound of crashing waves grows louder, echoing off the sheer rock walls that rise above you.
+
+[Player]: Enter the dark cave.
+
+[Narrator]: With cautious steps, you enter the dark cave, the sound of your footsteps echoing off the damp stone walls. The air is thick with the scent of salt and seaweed, and the only light comes from the faint glow of phosphorescent algae that clings to the walls and ceiling.
+
+[Game Over]: Suddenly, the ground gives way beneath your feet, and you find yourself plummeting into darkness. With a splash, you hit the icy waters below, your body buffeted by the force of the waves as you struggle to stay afloat. As you gasp for air, you realize that you are not alone in the depths of the cave, and something sinister lurks beneath the surface, waiting to claim its next victim.

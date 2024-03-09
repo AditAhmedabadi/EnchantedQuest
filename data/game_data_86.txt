@@ -1,0 +1,20 @@
+
+[Narrator]: Amidst the ancient trees of the enchanted forest, you stumble upon a forgotten ruin, its crumbling walls adorned with intricate carvings and symbols of arcane power.
+
+[Player]: Curiosity piqued, I cautiously approach the ruin, my footsteps echoing in the silence of the forest as I seek to unravel the mysteries concealed within its ancient stones.
+
+[Narrator]: As you explore the dilapidated chambers and winding corridors of the ruin, you uncover ancient artifacts and relics, each whispering secrets of a bygone era and hinting at the forest's rich history.
+
+[Player]: With reverence, I examine the artifacts, marveling at their craftsmanship and the power they once held, eager to unlock the knowledge they contain and uncover the truth hidden within the forest's depths.
+
+[Narrator]: Deep within the heart of the ruin, you discover a hidden chamber, its walls adorned with glyphs and sigils that pulse with magical energy. At its center lies a pedestal, upon which rests a shimmering orb of pure crystal.
+
+[Player]: Drawn by the orb's ethereal glow, I approach the pedestal, my hand outstretched to grasp the ancient artifact, prepared to unleash its power and unlock the secrets of the enchanted forest.
+
+[Narrator]: As you reach out to touch the orb, a surge of energy courses through you, enveloping you in a kaleidoscope of light and sound. Visions flash before your eyes, revealing glimpses of the forest's past and the destinies of those who have come before.
+
+[Player]: With newfound insight and a sense of purpose, I embrace the knowledge bestowed upon me by the orb, ready to embark on a quest to fulfill the forest's ancient prophecy and restore balance to the mystical realm.
+
+[Narrator]: Armed with the wisdom of the ancients and the power of the enchanted orb, you emerge from the ruin, ready to face whatever challenges lie ahead and forge your own destiny amidst the enchanted forest.
+
+[Game Over]: In the heart of the enchanted forest, you have uncovered the secrets of the ancient ruin and embraced your role as the forest's chosen champion. As you venture forth on your quest, may the light of the orb guide your path and lead you to victory.

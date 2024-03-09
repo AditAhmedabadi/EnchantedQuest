@@ -1,0 +1,12 @@
+
+[Narrator]: In the heart of the ancient ruins, you stand amidst the crumbling remnants of a once-great civilization. The air is thick with the scent of moss and decay, and the sound of your footsteps echoes off the weathered stone walls.
+
+[Player]: Search for clues.
+
+[Narrator]: With a careful eye, you scour the ruins for any signs of hidden knowledge or forgotten secrets. As you explore further, you come across a series of intricate carvings etched into the stone, their meaning lost to the passage of time.
+
+[Player]: Examine the carvings.
+
+[Narrator]: With a sense of anticipation, you study the carvings, tracing their intricate patterns with your fingertips. As you delve deeper into their mysteries, you feel a sense of connection to the ancient civilization that once thrived in this place, their stories and struggles etched into the very fabric of the ruins.
+
+[Game Over]: Suddenly, the ground beneath your feet begins to tremble, and you realize with horror that the ruins are collapsing around you. With no time to spare, you flee for safety, narrowly escaping the crumbling stones and ancient traps that threaten to engulf you.

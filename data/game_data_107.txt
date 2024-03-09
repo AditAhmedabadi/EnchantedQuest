@@ -1,0 +1,16 @@
+
+[Narrator]: In the depths of the enchanted forest, a sinister figure emerges from the shadows—a dark sorcerer wielding dark magic with malevolent intent.
+
+[Player]: Confront the sorcerer.
+
+[Narrator]: With unwavering resolve, you step forward to confront the sorcerer, determined to put an end to their nefarious schemes. The air crackles with dark energy as you prepare for the ultimate showdown.
+
+[Player]: Shield yourself from the sorcerer's spells.
+
+[Narrator]: The sorcerer hurls bolts of dark energy at you with deadly accuracy, each blast threatening to consume you in shadow. You raise your shield to deflect the onslaught, channeling your inner strength to withstand the barrage.
+
+[Player]: Unleash a barrage of attacks against the sorcerer.
+
+[Narrator]: With a primal roar, you charge at the sorcerer, unleashing a flurry of strikes with all your might. The sorcerer counters with dark magic of their own, but you press on undeterred, determined to see your quest through to the end.
+
+[Game Over]: In the heart of the enchanted forest, your valiant effort to defeat the sorcerer is met with defeat, their dark magic overwhelming you in the end. As you collapse to the forest floor, drained of strength and hope, the sorcerer's laughter echoes in your ears, your journey ending in failure.

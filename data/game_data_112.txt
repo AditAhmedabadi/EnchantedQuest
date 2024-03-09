@@ -1,0 +1,16 @@
+
+[Narrator]: As you wander deeper into the enchanted forest, you encounter a pack of wolves, their eyes gleaming with hunger as they circle you.
+
+[Player]: Face the wolves head-on!
+
+[Narrator]: With unwavering courage, you stand your ground as the wolves lunge towards you, teeth bared and claws unsheathed. The forest echoes with the sound of snarling as you engage in a fierce struggle for survival.
+
+[Player]: Defend against the wolves' attacks!
+
+[Narrator]: With your weapon at the ready, you fend off the wolves' relentless assaults, parrying their strikes and keeping them at bay. Despite their ferocity, you refuse to yield, determined to protect yourself from harm.
+
+[Player]: Strike at the wolves' leader!
+
+[Narrator]: Identifying the alpha wolf, you focus your attacks on the leader, aiming to disrupt the pack's hierarchy and weaken their resolve. With each blow, you chip away at the wolves' morale, until finally, the pack disperses, defeated by your strength and determination.
+
+[Game Over]: In the heart of the enchanted forest, you have triumphed over the pack of wolves, your bravery and cunning earning you a hard-fought victory. As you survey the aftermath of the battle, you know that you have proven yourself a true hero of the realm.

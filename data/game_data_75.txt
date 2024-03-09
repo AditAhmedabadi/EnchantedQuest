@@ -1,0 +1,10 @@
+
+[Narrator]: As night falls over the enchanted forest, you find yourself drawn to a mystical grove where fireflies dance in the darkness. In the center, a magical fountain glimmers with an ethereal light.
+
+[Player]: Intrigued by the fountain's beauty, I approach and dip my hand into its shimmering waters, wondering what wonders it may hold.
+
+[Narrator]: As your fingertips touch the surface of the fountain, you feel a surge of energy coursing through you, filling you with renewed vitality and a sense of peace.
+
+[Player]: I drink from the fountain, feeling its magic infuse every fiber of my being, and offer a silent thanks to the forest spirits for their gift.
+
+[Game Over]: With your spirit rejuvenated and your resolve strengthened, you venture forth into the enchanted forest, ready to face whatever challenges the night may bring.

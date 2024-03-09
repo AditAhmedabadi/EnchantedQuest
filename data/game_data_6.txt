@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the heart of the enchanted forest, where shadows dance amidst the ancient trees and the air thrums with mystical energy, you encounter a formidable adversary lurking amidst the underbrush. Emerging from the shadows with a primal roar, a fearsome beast confronts you, its massive form exuding an aura of raw power and ferocity.
+
+[Player]: Steeling myself for battle, I ready my weapon and prepare to face the beast head-on, determined to emerge victorious.
+
+[Narrator]: With a fierce battle cry, you charge towards the beast, your weapon poised to strike as you seek to vanquish this formidable foe. However, the creature proves to be a cunning adversary, evading your blows with lightning speed as it retaliates with a flurry of claws and teeth.
+
+[Player]: I fight with all my strength, seeking to overcome the beast's defenses and claim victory in this struggle for survival.
+
+[Narrator]: Despite your valiant efforts, the beast proves to be a relentless opponent, its primal fury driving it to overpower you with savage ferocity. With each strike, you feel the sting of its claws tearing through your defenses, leaving you battered and bruised in its wake.
+
+[Player]: As my strength begins to wane and my wounds mount, I realize that I may not emerge victorious in this battle after all.
+
+[Narrator]: With a final, decisive blow, the beast delivers a crushing strike that sends you sprawling to the forest floor, your weapon clattering from your grasp as darkness begins to close in around you. As you lie helpless amidst the underbrush, the victorious beast looms over you with a triumphant snarl, its victory assured.
+
+[Game Over]: In the heart of the enchanted forest, your journey meets a tragic end at the claws of a fearsome beast. May your courage and determination serve as a testament to your spirit, even in the face of defeat. Though your quest may have come to an untimely end, your memory will live on in the annals of legend.

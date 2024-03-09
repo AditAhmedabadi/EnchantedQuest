@@ -1,0 +1,8 @@
+
+[Narrator]: Within the heart of the enchanted forest lies a grove of ancient trees whose branches sway gently in the breeze, their leaves whispering secrets that only the wind can understand. Known as the Whispering Woods, this tranquil sanctuary is said to hold the key to unlocking the mysteries of the mystical realm.
+
+[Player]: Intrigued by the tales of the Whispering Woods, I venture into its serene embrace, eager to discover the truths hidden within its leafy embrace.
+
+[Narrator]: As you walk amongst the towering trees of the Whispering Woods, you feel a sense of peace wash over you, the gentle rustling of leaves a soothing melody to your ears. Strange visions dance at the edge of your consciousness, their meanings elusive yet tantalizing, and you find yourself drawn deeper into the heart of the grove.
+
+[Game Over]: In the heart of the Whispering Woods, your quest for enlightenment meets a triumphant end as you unlock the secrets hidden within its serene embrace, emerging from its leafy depths with newfound wisdom and understanding, forever changed by the magic of the enchanted forest.

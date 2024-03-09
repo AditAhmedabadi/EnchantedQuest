@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the enchanted forest, you encounter a ferocious bear blocking your path, its growls echoing through the trees.
+
+[Player]: Confront the bear.
+
+[Narrator]: With determination, you stand your ground, facing the bear head-on. As it charges towards you, you brace yourself for the clash, ready to defend yourself against the fearsome creature.
+
+[Player]: Defend against the bear's attacks.
+
+[Narrator]: As the bear swipes at you with its massive claws, you raise your shield to block its blows, deflecting its attacks with strength and determination. Despite its size and strength, you refuse to back down.
+
+[Player]: Strike back at the bear.
+
+[Narrator]: Seizing an opportunity, you unleash a flurry of strikes, aiming for the bear's vulnerable spots with precision. With each blow, you weaken the bear's resolve, until finally, it staggers and falls, defeated by your courage and skill.
+
+[Game Over]: With the bear vanquished, you emerge victorious in the heart of the enchanted forest, your bravery earning you the respect of its denizens. As you continue your journey, you know that no challenge will be too great to overcome.

@@ -1,0 +1,8 @@
+
+[Narrator]: In the heart of the enchanted forest, you come upon a clearing bathed in soft moonlight, where a majestic creature stands sentinel amidst the ancient trees. Its eyes, glowing with wisdom and compassion, fix upon you as you approach, and you feel a sense of reverence wash over you in its presence.
+
+[Player]: With humility in my heart, I approach the creature, seeking its guidance on my journey.
+
+[Narrator]: The creature speaks in a voice that seems to resonate with the very essence of the forest itself, offering cryptic words of wisdom and challenges that test your resolve and determination. With each trial you face, you feel yourself growing stronger and more attuned to the magic of the forest, until at last, you stand before the creature as an equal.
+
+[Game Over]: In the heart of the enchanted forest, your quest for enlightenment meets a triumphant end as you pass the Guardian's test with flying colors, emerging from the depths of the mystical realm as a true champion of the forest.

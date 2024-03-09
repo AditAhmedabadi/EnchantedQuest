@@ -1,0 +1,12 @@
+
+[Narrator]: In the heart of a bustling city, you find yourself surrounded by towering skyscrapers and bustling crowds, the air thick with the scent of exhaust and the sound of car horns blaring. Neon lights illuminate the streets, casting a surreal glow over the urban landscape.
+
+[Player]: Navigate through the crowded streets.
+
+[Narrator]: With determination in your stride, you weave your way through the throngs of people, dodging impatient pedestrians and swerving around honking cars. As you navigate the maze of city streets, you catch glimpses of hidden alleyways and secret shortcuts, each promising a faster route to your destination.
+
+[Player]: Enter the dark alley.
+
+[Narrator]: With a sense of trepidation, you slip into the shadowy confines of the alley, the sounds of the city fading into the distance behind you. The air grows still and oppressive, and the narrow walls loom ominously overhead, closing in around you like a vice.
+
+[Game Over]: Suddenly, a figure steps out from the darkness, its features obscured by the dim light. With a chilling laugh, it raises a gleaming blade, its edge glinting in the faint glow. With nowhere to run, you steel yourself for the confrontation, knowing that your fate hangs in the balance.

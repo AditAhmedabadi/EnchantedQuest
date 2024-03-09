@@ -1,0 +1,8 @@
+
+[Narrator]: Amidst the tangled undergrowth of the enchanted forest lie the ruins of an ancient civilization, its crumbling walls a testament to the passage of time. Haunted by the spirits of those who once dwelled within its walls, the ruins are said to be a place of both wonder and terror.
+
+[Player]: Driven by curiosity, I venture into the haunted ruins, determined to uncover the secrets that lie buried within their crumbling halls.
+
+[Narrator]: As you explore the decaying corridors of the ruins, you feel the chill of unseen spirits brushing against your skin, their whispers echoing through the empty halls. Shadows dance along the walls, their movements casting eerie shapes upon the ancient stone, and you sense the presence of something dark and malevolent lurking in the depths.
+
+[Game Over]: In the heart of the haunted ruins, your quest for knowledge meets a tragic end as you become ensnared in the grasp of the vengeful spirits that haunt its crumbling halls, condemned to wander its shadowy corridors for all eternity.

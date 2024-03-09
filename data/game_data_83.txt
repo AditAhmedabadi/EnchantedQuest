@@ -1,0 +1,28 @@
+
+[Narrator]: As you wander deeper into the enchanted forest, a sense of foreboding washes over you, signaling the presence of danger lurking in the shadows.
+
+[Player]: I cautiously scan my surroundings, keeping a vigilant eye out for any signs of trouble.
+
+[Narrator]: Suddenly, from the dense undergrowth, a pack of fierce wolves emerges, their eyes gleaming with hunger and hostility.
+
+[Player]: I stand my ground, readying myself for the impending confrontation, my heart pounding with adrenaline.
+
+[Narrator]: With a fierce growl, the alpha wolf charges forward, its pack following closely behind, closing in on you with menacing intent.
+
+[Player]: I draw my weapon, steeling myself for the battle ahead, determined to fend off the wolves and protect myself from harm.
+
+[Narrator]: The air fills with the sound of snarls and snapping jaws as the wolves launch their attack, their speed and ferocity making them formidable opponents.
+
+[Player]: I strike out with precision, aiming to incapacitate the wolves and drive them back with each well-placed blow.
+
+[Narrator]: Despite your best efforts, the wolves continue to press their assault, their relentless onslaught pushing you to the brink of exhaustion.
+
+[Player]: I refuse to surrender, drawing upon my inner strength to fend off the wolves and hold my ground against their relentless onslaught.
+
+[Narrator]: As the battle rages on, you find yourself locked in a fierce struggle for survival, your every move guided by instinct and determination.
+
+[Player]: I fight with unwavering resolve, knowing that victory is within reach if I can just muster the strength to outlast the wolves' relentless assault.
+
+[Narrator]: With a final, desperate effort, you manage to turn the tide of battle, driving the wolves back and emerging victorious from the harrowing encounter.
+
+[Game Over]: In the heart of the enchanted forest, you have proven yourself a true survivor, overcoming the dangers that lurk amidst the shadows. As you catch your breath amidst the aftermath of the battle, a sense of pride washes over you, knowing that you have faced adversity with courage and resilience.

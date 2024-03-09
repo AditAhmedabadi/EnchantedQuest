@@ -1,0 +1,16 @@
+
+[Narrator]: Beneath the ancient canopy of the enchanted forest, where shafts of golden light filter through the branches, a solitary figure stands at the edge of a tranquil pond. The surface of the water reflects the beauty of the surrounding forest, mirroring the dance of leaves and the gentle sway of branches.
+
+[Player]: I approach the pond with reverence, drawn to its serene beauty and the sense of peace that emanates from its depths.
+
+[Narrator]: As you gaze into the clear waters of the pond, you catch sight of a shimmering light deep below the surface. Intrigued, you reach out to touch the water, your fingers tingling with the magic that flows through it.
+
+[Player]: I dip my hand into the water, curious to uncover the source of the shimmering light.
+
+[Narrator]: As your fingers touch the surface of the water, a vision unfolds before you, revealing the secrets of the enchanted forest. You see glimpses of ancient rituals and forgotten legends, each one adding to the tapestry of magic that surrounds you.
+
+[Player]: I watch the vision unfold, my mind filled with wonder and awe at the mysteries of the forest.
+
+[Narrator]: With each new revelation, you feel a deep connection to the forest and its hidden wonders. As the vision fades, you know that your journey has only just begun, and that there are many more secrets waiting to be uncovered in the depths of the enchanted realm.
+
+[Game Over]: In the heart of the enchanted forest, your quest for knowledge comes to an end as you emerge from the pond, your mind filled with the mysteries of the ancient magic that flows through the forest. Though your journey may have ended, the memories of your adventure will linger on, inspiring others to seek out the wonders of the mystical realm.

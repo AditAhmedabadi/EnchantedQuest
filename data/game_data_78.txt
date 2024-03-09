@@ -1,0 +1,10 @@
+
+[Narrator]: A soft glow emanates from a clearing up ahead, beckoning you to explore its hidden wonders.
+
+[Player]: I cautiously approach the clearing, my senses alert for any signs of danger.
+
+[Narrator]: As you step into the clearing, you're greeted by the sight of a majestic waterfall cascading down into a tranquil pool below.
+
+[Player]: I marvel at the beauty of the waterfall, feeling a sense of peace wash over me.
+
+[Game Over]: With a renewed sense of wonder, you linger in the clearing, savoring the beauty of the enchanted forest before continuing on your journey.

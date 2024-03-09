@@ -1,0 +1,20 @@
+
+[Narrator]: Deep within the heart of the enchanted forest, where the ancient trees stand sentinel and the air is thick with magic, a hidden grove reveals itself to those who seek its secrets. Surrounded by a curtain of shimmering leaves, the grove pulses with an otherworldly energy, drawing travelers from far and wide to its hallowed ground.
+
+[Player]: Intrigued by tales of the hidden grove's power, I venture forth into the heart of the forest, guided by a sense of curiosity and wonder.
+
+[Narrator]: As you step into the grove, you feel a surge of energy course through your veins, as if the very air itself is alive with magic. Symbols and sigils dance across the ground beneath your feet, their meaning lost to time but their power unmistakable.
+
+[Player]: I cautiously approach the center of the grove, my senses alert to any signs of danger or hidden guardians.
+
+[Narrator]: As you reach the heart of the grove, a sense of peace washes over you, dispelling any lingering doubts or fears. In the center of the clearing stands a towering tree, its branches reaching up to the sky like the outstretched arms of an ancient guardian.
+
+[Player]: I reach out to touch the tree, my fingers tingling with the energy of the forest as I seek to commune with its ancient wisdom.
+
+[Narrator]: As your fingers make contact with the rough bark of the tree, a rush of images and sensations floods your mind, revealing the secrets of the enchanted forest in vivid detail. You see visions of distant lands and forgotten realms, each one a glimpse into the boundless magic that flows through the world.
+
+[Player]: I drink in the visions, my mind expanding with each new revelation as I seek to understand the true nature of the enchanted realm.
+
+[Narrator]: With each vision, you feel a deeper connection to the forest and its mysteries, your spirit intertwining with the ancient magic that courses through its veins. As the last echoes of the visions fade away, you are left standing in the grove, your mind filled with wonder and awe at the wonders of the mystical realm.
+
+[Game Over]: In the heart of the enchanted forest, your journey of discovery comes to an end as you stand amidst the ancient trees, your heart filled with the magic of the grove. Though your adventure may have ended, the memories of your time in the enchanted realm will linger on, inspiring others to seek out the hidden wonders of the mystical forest.

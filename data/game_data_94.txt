@@ -1,0 +1,16 @@
+
+[Narrator]: Deep within the enchanted forest, you encounter a band of fearsome trolls blocking your path, their eyes filled with malice as they brandish their weapons.
+
+[Player]: Engage the trolls in combat.
+
+[Narrator]: With a steely resolve, you ready your weapon and charge towards the trolls, prepared to face them in battle. As the clash of steel fills the air, you fight with all your strength, determined to overcome your adversaries.
+
+[Player]: Defend against the trolls' attacks.
+
+[Narrator]: As the trolls swing their weapons with brute force, you raise your shield to deflect their blows, parrying their attacks with skill and precision. Despite their strength, you hold your ground, refusing to yield to their onslaught.
+
+[Player]: Counterattack the trolls.
+
+[Narrator]: Seizing an opening in the trolls' defenses, you launch a counterattack, striking back with ferocity and determination. With each blow, you weaken their resolve, until at last, the trolls fall before you, defeated by your valor and skill.
+
+[Game Over]: In the heart of the enchanted forest, you have triumphed over the trolls, proving yourself a true champion of the realm. As you survey the battlefield strewn with fallen foes, you know that your courage and determination will carry you through whatever challenges lie ahead.

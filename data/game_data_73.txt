@@ -1,0 +1,12 @@
+
+[Narrator]: Deep within the enchanted forest, where ancient trees stand sentinel and the air crackles with mystic energy, you come upon a serene pond shimmering in the moonlight. The water is crystal clear, reflecting the stars above like a mirror to the heavens.
+
+[Player]: Intrigued by the tranquil beauty of the pond, I approach cautiously, drawn by an inexplicable sense of peace and wonder.
+
+[Narrator]: As you gaze into the shimmering waters, you catch sight of a silvery figure gliding effortlessly beneath the surface. Its form is graceful and ethereal, radiating a sense of serenity and wisdom that captivates your soul.
+
+[Player]: I reach out to touch the water, hoping to commune with the mystical creature and learn the secrets of the enchanted forest.
+
+[Narrator]: With a gentle ripple, the creature emerges from the depths, its eyes sparkling with ancient wisdom as it regards you with a knowing gaze. In that moment, you feel a profound connection to the mystical realm, as if the forest itself is speaking to you through the silent language of the heart.
+
+[Game Over]: In the tranquil embrace of the enchanted pond, you find solace and enlightenment amidst the mysteries of the mystical realm. May the wisdom of the forest guide you on your journey, illuminating the path ahead with its eternal light.

@@ -1,0 +1,12 @@
+
+[Narrator]: In the heart of a bustling marketplace, where colorful stalls line narrow cobblestone streets and the air is alive with the sound of haggling merchants and chattering crowds, you find yourself surrounded by a dizzying array of sights and sounds. The scent of exotic spices fills the air, and the vibrant tapestry of goods for sale tantalizes your senses.
+
+[Player]: Approach the fortune teller's tent.
+
+[Narrator]: With a sense of curiosity driving you forward, you approach the fortune teller's tent, its colorful banners fluttering in the breeze. As you step inside, the air grows thick with incense, and the dim light casts strange shadows on the walls. Before you stands the fortune teller, her eyes dark and mysterious as she beckons you closer.
+
+[Player]: Ask about your future.
+
+[Narrator]: With a mixture of excitement and trepidation, you ask the fortune teller about your future, eager to know what fate has in store for you. She studies the swirling patterns of her tarot cards, her expression inscrutable as she lays out the cards before you. With a slow, deliberate motion, she turns over the first card, revealing...
+
+[Game Over]: The Death card. With a sinking feeling in your stomach, you realize that your fate is sealed, and there is no escaping the inevitable. As the fortune teller's words of doom echo in your ears, you flee from the tent in a panic, desperate to avoid the grim fate that awaits you.

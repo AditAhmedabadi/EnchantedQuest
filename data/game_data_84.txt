@@ -1,0 +1,24 @@
+
+[Narrator]: As you venture deeper into the heart of the enchanted forest, a mysterious mist descends, obscuring your surroundings and filling the air with an eerie chill.
+
+[Player]: I tread cautiously, relying on my senses to navigate through the thick fog and stay alert for any signs of danger.
+
+[Narrator]: Suddenly, from the mist, a spectral figure materializes before you, its form ethereal and otherworldly.
+
+[Player]: I stand my ground, cautiously observing the spectral figure and preparing myself for whatever may come.
+
+[Narrator]: The figure speaks in a haunting whisper, its words laden with ancient wisdom and cryptic messages that seem to echo through the depths of the forest.
+
+[Player]: I listen intently, trying to decipher the meaning behind the spectral figure's enigmatic words and discern its intentions.
+
+[Narrator]: With each passing moment, the mist thickens, enveloping you in a shroud of uncertainty as you struggle to make sense of the spectral presence before you.
+
+[Player]: I muster my courage and cautiously approach the spectral figure, determined to unravel the mysteries of the enchanted forest and uncover the truth hidden within its depths.
+
+[Narrator]: As you draw nearer to the spectral figure, its form begins to fade, dissipating into the mist and leaving you alone once more amidst the swirling fog.
+
+[Player]: I pause, reflecting on the encounter with the spectral figure and pondering the significance of its cryptic message.
+
+[Narrator]: With the mist gradually lifting, you continue your journey through the enchanted forest, the echoes of the spectral encounter lingering in your mind as you venture deeper into the unknown.
+
+[Game Over]: In the heart of the enchanted forest, you have encountered the mysteries that lie hidden within its depths, confronting the spectral presence with courage and curiosity. Though the true nature of the encounter remains shrouded in mystery, your resolve and determination will guide you forward on your journey through the mystical realm.

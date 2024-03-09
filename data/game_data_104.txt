@@ -1,0 +1,16 @@
+
+[Narrator]: As you journey deeper into the enchanted forest, you encounter a fearsome dragon perched atop a rocky outcrop, its fiery gaze fixed upon you with unyielding intensity.
+
+[Player]: Confront the dragon.
+
+[Narrator]: With steely resolve, you approach the dragon, your weapon at the ready. As it unleashes a torrent of flames in your direction, you stand firm, determined to face this legendary creature in combat.
+
+[Player]: Dodge the dragon's fire breath.
+
+[Narrator]: With nimble footwork, you evade the dragon's fiery onslaught, rolling and weaving between the flames with grace and precision. As you close in on the creature, you prepare to strike at its vulnerable points.
+
+[Player]: Strike at the dragon's weak spot.
+
+[Narrator]: Seizing an opportunity amidst the chaos of battle, you launch a daring attack, aiming for the dragon's exposed underbelly with all your strength. With a mighty roar, the dragon recoils in pain, its defenses faltering as you press the attack.
+
+[Game Over]: In the heart of the enchanted forest, you have emerged victorious against the legendary dragon, your courage and skill shining brightly. As you stand triumphant over your fallen adversary, you know that your name will be revered throughout the land.

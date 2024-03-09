@@ -1,0 +1,10 @@
+
+[Narrator]: You come across a mysterious cave entrance, its dark depths beckoning you to explore.
+
+[Player]: I cautiously enter the cave, my heart pounding with excitement.
+
+[Narrator]: Inside, you find yourself surrounded by shimmering crystals, casting an ethereal glow upon the walls.
+
+[Player]: I marvel at the beauty of the crystals, feeling a sense of wonder fill me.
+
+[Game Over]: With each step deeper into the cave, you uncover more of its secrets, lost in the enchantment of the mystical realm.

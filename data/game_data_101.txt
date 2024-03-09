@@ -1,0 +1,16 @@
+
+[Narrator]: Amidst the ancient trees of the enchanted forest, you encounter a pack of ferocious wolves, their eyes gleaming with hunger as they circle around you.
+
+[Player]: Prepare to defend against the wolves.
+
+[Narrator]: With your back against a tree, you ready your weapon, steeling yourself for the coming onslaught. As the wolves close in, you stand firm, ready to fight for your survival.
+
+[Player]: Ward off the wolves' attacks.
+
+[Narrator]: As the wolves lunge at you with bared teeth, you fend them off with quick strikes and well-timed blocks. Despite their relentless assault, you refuse to back down, determined to protect yourself at all costs.
+
+[Player]: Fight back against the wolves.
+
+[Narrator]: Seizing an opportunity, you unleash a flurry of attacks, driving the wolves back with each powerful blow. With a final, decisive strike, you scatter the pack, sending them fleeing into the depths of the forest.
+
+[Game Over]: In the heart of the enchanted forest, you have emerged victorious against the wolves, your courage and resilience earning you the admiration of the woodland creatures. As you catch your breath amidst the fading echoes of battle, you know that new challenges await in the wilderness beyond.

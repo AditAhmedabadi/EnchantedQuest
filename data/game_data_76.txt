@@ -1,0 +1,10 @@
+
+[Narrator]: A gentle breeze carries the scent of wildflowers, leading you to a sunlit meadow.
+
+[Player]: I take a moment to bask in the warmth of the sun, feeling at peace in the meadow.
+
+[Narrator]: As you relax in the meadow, you notice a fluttering of wings as colorful butterflies dance around you.
+
+[Player]: I watch the butterflies, their beauty mesmerizing me.
+
+[Game Over]: Lost in the tranquility of the meadow, you find yourself at one with nature, a fleeting moment of serenity in the enchanted forest.

@@ -1,0 +1,20 @@
+
+[Narrator]: Deep within the enchanted forest, where ancient trees stand sentinel and the air crackles with mystic energy, a lone wanderer embarks on a quest veiled in secrecy and magic. With each step, the forest seems to whisper secrets known only to its ancient guardians, guiding the wanderer deeper into the heart of the mystical realm.
+
+[Player]: I pause to listen to the whispers of the forest, hoping to glean some insight into the path ahead.
+
+[Narrator]: As you listen to the whispers of the forest, a faint glimmer catches your eye amidst the tangled underbrush. Intrigued, you follow the soft glow, your curiosity leading you deeper into the shadows. Soon, you come upon a clearing bathed in moonlight, where a mysterious figure awaits, cloaked in shadows and veiled in mystery.
+
+[Player]: I cautiously approach the figure, my heart pounding with a mixture of fear and excitement.
+
+[Narrator]: With each step, the figure's form becomes clearer, revealing a creature of ancient wisdom and boundless power. Its eyes, gleaming with otherworldly light, fix upon you as you draw near, and you feel a sense of reverence wash over you in its presence.
+
+[Player]: I humbly request the creature's guidance on my journey through the enchanted forest.
+
+[Narrator]: The creature regards you with a knowing gaze, its voice a gentle whisper that seems to echo through the very soul of the forest. It offers cryptic words of wisdom and challenges that test your resolve, guiding you along a path fraught with danger and discovery.
+
+[Player]: I accept the creature's guidance, determined to prove myself worthy of the challenges that lie ahead.
+
+[Narrator]: With the creature's guidance, you venture deeper into the enchanted forest, your senses attuned to the magic that thrums through the air. Each step brings you closer to the heart of the mystical realm, where ancient secrets and untold wonders await those brave enough to seek them out.
+
+[Game Over]: In the heart of the enchanted forest, your journey comes to an end as you emerge triumphant from the trials that tested your courage and resolve. Though the path may have been fraught with peril, your bravery will be remembered in the annals of legend, inspiring future adventurers to embark on their own quests in search of the wonders that lie hidden within the enchanted realm.

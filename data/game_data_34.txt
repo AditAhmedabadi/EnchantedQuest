@@ -1,0 +1,12 @@
+
+[Narrator]: Amidst the ancient trees of the enchanted forest, where shadows dance and whispers echo, a fearsome creature emerges from the darkness. Its eyes, gleaming with a predatory glint, fix upon you as it prowls forward, its massive form casting a menacing shadow over the forest floor.
+
+[Player]: Realizing the perilous situation, I make a split-second decision to retreat, hoping to put distance between myself and the creature.
+
+[Narrator]: With a surge of adrenaline, you pivot on your heels and dash back the way you came, your heart pounding in your chest as you race through the dense undergrowth. The creature's enraged roars reverberate through the forest, driving you forward with renewed urgency.
+
+[Player]: I push myself to the limit, each step fuelled by the primal instinct to survive.
+
+[Narrator]: Branches lash at your face, and roots snag at your feet as you sprint through the labyrinthine paths of the forest, the creature's thunderous footsteps growing distant behind you. Just when exhaustion threatens to overwhelm you, you burst into a small clearing, the safety of open space offering a momentary reprieve.
+
+[Game Over]: In the heart of the enchanted forest, your quest for survival meets a narrow escape as you evade the clutches of the fearsome creature that prowls its shadowy depths. Though you may have outrun danger for now, the memory of your harrowing encounter will linger with you long after you have left the mystical realm behind.

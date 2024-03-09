@@ -1,0 +1,16 @@
+
+[Narrator]: High atop a rocky cliff in the heart of the enchanted forest, where the winds whisper secrets and the trees bow in reverence, a lone figure stands silhouetted against the setting sun. With a sense of purpose burning in their heart, they gaze out over the vast expanse of the forest, their eyes searching for signs of the mystical creatures that call it home.
+
+[Player]: I stand on the cliff, my heart filled with determination and a sense of wonder at the beauty of the forest spread out before me.
+
+[Narrator]: As you stand on the cliff, you catch sight of a majestic creature soaring through the sky, its wings catching the last rays of sunlight as it disappears into the gathering dusk. Inspired by the sight, you raise your voice in song, the melody echoing through the forest and filling the air with magic.
+
+[Player]: I sing to the forest, my voice blending with the wind and the trees as I celebrate the beauty of the enchanted realm.
+
+[Narrator]: As your song fills the air, you feel a connection to the forest and its inhabitants, a bond forged through music and magic. With each note, you weave a tapestry of sound that resonates with the ancient rhythms of the forest, drawing creatures from far and wide to join in the celebration.
+
+[Player]: I continue to sing, lost in the beauty of the moment and the magic of the forest.
+
+[Narrator]: As the last echoes of your song fade into the night, you feel a sense of peace settle over you, knowing that you have shared a moment of beauty and magic with the enchanted realm. With a contented sigh, you turn and make your way back down the cliff, your heart light and your spirit soaring on the wings of song.
+
+[Game Over]: In the heart of the enchanted forest, your journey comes to an end as you descend from the cliff, your heart filled with the joy of music and the magic of the forest. Though your adventure may have ended, the memories of your song will linger on, inspiring others to seek out the wonders of the mystical realm.

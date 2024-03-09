@@ -1,0 +1,12 @@
+
+[Narrator]: As the moon casts its silvery glow upon the enchanted forest, you stumble upon a hidden glen adorned with vibrant flowers and glowing mushrooms. The air is thick with magic, and you feel a sense of wonder and curiosity wash over you as you step into this ethereal sanctuary.
+
+[Player]: I cautiously approach the glowing mushrooms, mesmerized by their otherworldly beauty and wondering if they hold any mystical properties.
+
+[Narrator]: As you draw near, the mushrooms emit a soft, pulsating light, casting shimmering reflections upon the forest floor. With a gentle touch, you feel a surge of energy coursing through your fingertips, filling you with a sense of vitality and rejuvenation.
+
+[Player]: I gather a few of the glowing mushrooms, hoping to harness their magical essence for later use on my journey.
+
+[Narrator]: With the mystical mushrooms safely stowed away, you continue your exploration of the enchanted forest, feeling invigorated by the encounter and eager to uncover more of its hidden wonders.
+
+[Game Over]: In the heart of the enchanted glen, you find solace and inspiration amidst the natural beauty of the mystical realm. May the magic of the forest guide you on your journey, filling your heart with wonder and your spirit with courage.

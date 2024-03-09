@@ -1,0 +1,16 @@
+
+[Narrator]: As you traverse the enchanted forest, you come face-to-face with a massive troll, its bellowing roar shaking the ground beneath your feet.
+
+[Player]: Confront the troll head-on.
+
+[Narrator]: With nerves of steel, you stand your ground before the towering troll, your weapon at the ready. As the beast charges towards you, you meet its gaze with unwavering resolve, prepared to do battle with the formidable creature.
+
+[Player]: Evade the troll's attacks.
+
+[Narrator]: As the troll swings its massive club, you leap out of harm's way, narrowly avoiding the crushing blows as they rain down around you. With each dodge, you search for an opportunity to strike back and turn the tide of battle in your favor.
+
+[Player]: Strike at the troll's weak spot.
+
+[Narrator]: Spotting a vulnerability in the troll's defenses, you launch a daring attack, aiming for its exposed underbelly with all your strength. With a mighty roar, the troll staggers back, wounded but still dangerous, as you press your advantage and continue to fight.
+
+[Game Over]: In the heart of the enchanted forest, you have emerged victorious over the mighty troll, your courage and skill earning you a place among the heroes of legend. As you stand triumphant amidst the fallen beast, you know that your journey is far from over, with new challen
