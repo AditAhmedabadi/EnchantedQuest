@@ -2,8 +2,8 @@
 from dotenv import load_dotenv
 import os
 import torch
-from langchain import HuggingFacePipeline
-from helper_functions import load_document, split_document, generate_embeddings, create_vector_db, create_pipeline, create_retrieval_qa
+from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
+from .helper_functions import load_document, split_document, generate_embeddings, create_vector_db, create_pipeline, create_retrieval_qa
 # Load environment variables
 load_dotenv('token.env')
 api_token = os.getenv('api_token')
@@ -23,7 +23,7 @@ embeddings = generate_embeddings(
 vectordb = create_vector_db(docs, embeddings, 'instructions')
 
 # Create a pipeline for text generation
-pipe = create_pipeline("google/gemma-7b-it", api_token, torch.bfloat16)
+pipe = create_pipeline("google/gemma-2b-it", api_token, torch.bfloat16)
 
 # Create a HuggingFacePipeline instance
 llm = HuggingFacePipeline(
@@ -38,5 +38,7 @@ qa = create_retrieval_qa(
     retriever=vectordb.as_retriever(search_kwargs={"k":3}),
 )
 
+start_prompt = '''Play a game with me where i am in an enchanted forest full of beasts and loots.
+You be the narrator and i will be the player, play a dialog game with me. Let the user decide what to do next dont give options. Start The Game'''
 # Ask a question and print the result
-print(qa.invoke("If i encounter a monster, what do i do?"))
+print(qa.invoke(start_prompt))

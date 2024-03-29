@@ -1,10 +1,10 @@
 # helper_functions.py
 
 from dotenv import load_dotenv
-from langchain.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 from transformers import pipeline
@@ -51,7 +51,7 @@ def create_pipeline(model_name, api_token, dtype):
         model=model, 
         tokenizer=tokenizer,
         return_tensors='pt',
-        max_new_tokens=40,
+        max_new_tokens=200,
         model_kwargs={"torch_dtype": torch.bfloat16}
     )
 
