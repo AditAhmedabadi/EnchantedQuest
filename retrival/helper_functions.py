@@ -1,14 +1,14 @@
 # helper_functions.py
 
 from dotenv import load_dotenv
-from langchain.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 from transformers import pipeline
-from langchain import HuggingFacePipeline
+from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
 from langchain.chains import RetrievalQA
 import os
 
@@ -51,7 +51,7 @@ def create_pipeline(model_name, api_token, dtype):
         model=model, 
         tokenizer=tokenizer,
         return_tensors='pt',
-        max_new_tokens=40,
+        max_new_tokens=200,
         model_kwargs={"torch_dtype": torch.bfloat16}
     )
 
@@ -62,3 +62,20 @@ def create_retrieval_qa(llm, chain_type, retriever):
         chain_type=chain_type,
         retriever=retriever,
     )
+
+def get_embeddings():
+    # Load and split the document
+    data = load_document("/mnt/c/projects/EnchantedQuest/retrival/instructions.txt")
+    docs = split_document(data)
+
+    embeddings = generate_embeddings(
+        model_name='sentence-transformers/all-MiniLM-L6-v2',
+        model_kwargs={'device': 'cuda'},
+        encode_kwargs={'normalize_embeddings': False}
+    )
+
+    return docs,embeddings
+
+def similarity_search(query, db, k=1):
+    query_docs = db.similarity_search(query, k = 1)
+    return query_docs[0].page_content
