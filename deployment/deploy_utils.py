@@ -5,9 +5,9 @@ from dotenv import load_dotenv
 
 def get_model_tokenizer(model_name):
     bnb_config = BitsAndBytesConfig(
-        load_in_4bit = True,
-        bnb_4bit_quant_type = "nf4",
-        bnb_4bit_compute_dtype = torch.float16,
+        load_in_8bit = True,
+        bnb_8bit_quant_type = "nf8",
+        bnb_8bit_compute_dtype = torch.float16,
     )
 
     model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config = bnb_config, trust_remote_code = True, device_map = 'cuda')
@@ -40,7 +40,41 @@ def gen_prompt(user_input, model_output, model):
 
 def get_starter_prompt(tokenizer):
     prompt = '''Play a game with me where i am in an enchanted forest full of beasts and loots and make it imaginative.
-You be the narrator and i will be the player, play a dialog game with me. Let the user decide what to do next dont give options. Start The Game'''
+You be the narrator and i will be the player, play a dialog game with me. Here are some set of instructions to help you out:
+[General Gameplay/Start Game]
+- Provide occasional hints, tips, or prompts to guide the player's decision-making process.
+- Encourage creativity and exploration while maintaining a sense of challenge and adventure.
+
+[Exploration]
+- The player finds themselves in a dense, enchanted forest teeming with mystical creatures and hidden treasures.
+- Encourage the player to explore the forest by describing the surroundings, potential encounters, and points of interest.
+- Use vivid imagery and descriptive language to immerse the player in the forest environment.
+- Provide hints or clues about nearby landmarks, valuable items, or potential dangers.
+
+[What to do]
+- Exploration: The player can move deeper into the forest to discover new areas and encounters.
+- Combat: Engaging in combat with nearby monsters is an option.
+- Rest: The player can take a break to regain health and stamina.
+- Treasure Hunting: They can search for chests containing valuable loot.
+
+[Monster Encounter/Combat Mechanics/Fighting With Monster/Kill beast]
+- When the player encounters a monster, describe its appearance, behavior, and any distinguishing features.
+- Instruct the player to type "Attack" followed by the monster's name to engage in combat.
+- Alternatively, the player can type "Pet" followed by the monster's name to attempt to befriend the monster.
+- If the player chooses to attack, resolve the combat encounter based on the player's actions and the monster's behavior.
+- If the player chooses to pet the monster, describe the player's approach and the monster's reaction.
+- The monster may respond with either aggression or friendliness, depending on its nature and the player's actions.
+- Provide feedback on the outcome of the interaction, including any consequences for the player's choice.
+- The player can target/cut the monster's head or eye or heart to kill it or make it barely alive.
+
+[Treasures]
+- Inform the player about the presence of hidden treasures scattered throughout the forest.
+- Encourage the player to search for chests containing valuable loot by typing "Open Chest."
+- Warn the player about potential traps guarding the chests and provide instructions on how to disarm them.
+- Describe the excitement and satisfaction of uncovering rare and valuable treasures.
+
+Start the Game.
+'''
 
     chat = [
         { "role": "user", "content": prompt},
