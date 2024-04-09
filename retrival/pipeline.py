@@ -3,6 +3,7 @@ import os
 import torch
 from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
 from .helper_functions import load_document, split_document, generate_embeddings, create_vector_db, create_pipeline, create_retrieval_qa
+<<<<<<< HEAD
 from huggingface_hub import login
 
 # main.py
@@ -58,3 +59,43 @@ based on the dialogue above, give relevant instructions to model to continue the
 
 if __name__ == "__main__":
     print(main())
+=======
+# Load environment variables
+load_dotenv('token.env')
+api_token = os.getenv('api_token')
+
+# Load and split the document
+data = load_document("retrival/instructions.txt")
+docs = split_document(data)
+
+# Generate embeddings
+embeddings = generate_embeddings(
+    model_name='sentence-transformers/all-MiniLM-L6-v2',
+    model_kwargs={'device': 'cuda'},
+    encode_kwargs={'normalize_embeddings': False}
+)
+
+# Create a vector database
+vectordb = create_vector_db(docs, embeddings, 'instructions')
+
+# Create a pipeline for text generation
+pipe = create_pipeline("google/gemma-2b-it", api_token, torch.bfloat16)
+
+# Create a HuggingFacePipeline instance
+llm = HuggingFacePipeline(
+    pipeline=pipe,
+    model_kwargs={"temperature": 0.7},
+)
+
+# Create a RetrievalQA instance
+qa = create_retrieval_qa(   
+    llm=llm,
+    chain_type="stuff",
+    retriever=vectordb.as_retriever(search_kwargs={"k":3}),
+)
+
+start_prompt = '''Play a game with me where i am in an enchanted forest full of beasts and loots.
+You be the narrator and i will be the player, play a dialog game with me. Let the user decide what to do next dont give options. Start The Game'''
+# Ask a question and print the result
+print(qa.invoke(start_prompt))
+>>>>>>> bedb0fbad19f0c62b6b0effe9e8ca81e93b6895a
